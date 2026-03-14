@@ -1,6 +1,3 @@
-Here's the full README — copy this exactly into your `FamilyOS-Demo` repo:
-
-```markdown
 # FamilyOS — Live System Demo
 
 > Full source repository is private pending patent filing.
@@ -201,6 +198,5 @@ Languages:  Python · Rust · C++
 ---
 
 *Patent pending. All rights reserved.*
-```
 
 ---
