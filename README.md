@@ -15,12 +15,11 @@ decisions that actually matter.
 **Consolidation Pipeline** — raw events → structured long-term memory
 
 ## Tech Stack
-Dual-kernel architecture (K1 Intelligence + K0 Memory), 
-pgvector, FAISS, LanceDB, LangGraph, Python, PostgreSQL, 
-Neo4j, Kafka, Docker — 2.2M lines, 500+ ADRs, 3000+ tests.
+Dual-kernel architecture (K1 Intelligence + K0 Memory), pgvector, FAISS, LanceDB, LangGraph, Python, PostgreSQL, Neo4j, Kafka, Docker — 2.2M lines, 500+ ADRs, 3000+ tests.
 
 ## Contact
 princekansagra99@gmail.com
+
 
 # 🏠 FamilyOS — The Operating System for Modern Families
 
