@@ -51,7 +51,7 @@ reviewed and ready to order. All from a single morning conversation.*
 ---
 
 ### 2. Proactive Intelligence — Acts Without Being Asked
-![Proactive](Screenshots/K1%20Kernel%20End-to-End%20Demo.png)
+[→ View Screenshot](Screenshots/K1%20Kernel%20End-to-End%20Demo.png)
 *K1 detects Nana Liz's 9AM medication reminder went unconfirmed 
 for 3 hours and proactively alerts Alex — without being asked. 
 Simultaneously handles a FedEx delivery on porch camera, knows 
@@ -60,7 +60,7 @@ Jordan is asleep so doesn't disturb her.*
 ---
 
 ### 3. Emotional Intelligence — Real-Time Mode Switching
-![Emotional](Screenshots/K1%20Kernel%20End-to-End%20Demo.png)
+[→ View Screenshot](Screenshots/K1%20Kernel%20End-to-End%20Demo.png)
 *Alex says "I am still sad and tired." K1 immediately switches 
 from task execution mode to emotional support — and remembers 
 that the Meridian Corp demo caused similar stress weeks ago, 
@@ -69,7 +69,7 @@ using that memory to give genuinely relevant advice.*
 ---
 
 ### 4. Parallel Tool Execution — One Message, Many Actions
-![Parallel Tools](Screenshots/K1%20Kernel%20End-to-End%20Demo.png)
+[→ View Screenshot](Screenshots/K1%20Kernel%20End-to-End%20Demo.png)
 *Single instruction triggers 3 simultaneous tool executions:
 Riley swim bag reminder + Nana Liz medication reminder + 
 New Seasons grocery order placed on default Visa ending 4242.
@@ -79,7 +79,7 @@ reminder scheduled.*
 ---
 
 ### 5. Cross-Family Task Execution
-![Cross Family](Screenshots/K1%20Kernel%20End-to-End%20Demo.png)
+[→ View Screenshot](Screenshots/K1%20Kernel%20End-to-End%20Demo.png)
 *Alex asks to complete Jordan's todo list before she wakes up.
 K1 reads Jordan's list, books Max's vet appointment AND submits 
 Nana Liz's pharmacy refill autonomously — tools fire and confirm 
@@ -88,7 +88,7 @@ in real time.*
 ---
 
 ### 6. Context-Aware Child Education
-![Riley Education](Screenshots/K1%20Kernel%20End-to-End%20Demo.png)
+[→ View Screenshot](Screenshots/K1%20Kernel%20End-to-End%20Demo.png)
 *Alex asks K1 to explain Newton's Laws for Riley.
 K1 uses swimming pool analogies throughout — because it knows 
 Riley is a swimmer. "Operation Isaac Newton" brief dispatched 
@@ -97,7 +97,7 @@ directly to Riley's device.*
 ---
 
 ### 7. Smart Home + Grocery Finalization
-![Smart Home](Screenshots/K1%20Kernel%20End-to-End%20Demo.png)
+[→ View Screenshot](Screenshots/K1%20Kernel%20End-to-End%20Demo.png)
 *Coffee maker started, relaxing music on bedroom speaker.
 Jordan not woken — system knows she deserves rest today.
 Full grocery list finalized and order placed for Wednesday 
